@@ -16,7 +16,6 @@ function timerLogic() {
         if (minutes === 0) {
             clearInterval(interval); 
             interval = null;
-            alert("Tempo acabou! Hora de descansar.");
             return;
         }
         minutes--;
@@ -49,4 +48,5 @@ document.getElementById("reset").addEventListener("click", function(){
     seconds = 0;
     
     updateDisplay();
+
 });
