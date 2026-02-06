@@ -1,4 +1,4 @@
-# 🍅 Pomodoro Timer
+# 🍑 Pomodoro Timer
 
 Projeto de temporizador Pomodoro desenvolvido com HTML, CSS e JavaScript.
 
